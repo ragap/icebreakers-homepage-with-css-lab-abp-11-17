@@ -32,7 +32,7 @@ Reset the padding of the `nav ul` to `0` and set the top margin to `40px` with a
 /* ###`nav ul li`
 `li`s in the navigation should have a display of `inline` so they are side by side and a right margin of `10px`.*/
 
-header nav ul li {display: inline; margin-right: 10px}
+nav ul li {display: inline; margin-right: 10px}
 
 /* #### `nav a`
 Make the links in the navigation have [no underline](https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
