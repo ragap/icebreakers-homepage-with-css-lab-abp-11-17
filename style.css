@@ -72,14 +72,15 @@ div.jumbotron {
 
   background-color: #e9ecef;
   padding: 10px;
-  text-align: center;
+  
 }
 /*#### `div.jumbotron`
 Style the `div` with the `class` of `jumbotron` to have a [round border](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) of `5px`,
 a background color of `#e9ecef`, a padding of `10px` and [align the text](https://www.w3schools.com/cssref/pr_text_text-align.asp) to the center.*/
 div.jumbotron {  border-radius: 5px;
               color:#e9ecef ;
-              padding: 10px 10px 10px 10px
+              padding: 10px 10px 10px 10px;
+              text-align: center;
               }
 
 
