@@ -88,7 +88,7 @@ and a [`line-height`](https://www.w3schools.com/cssref/pr_dim_line-height.asp) o
 
 .jumbotron p {font-size: 20px;
               padding: 0 40px 0 40px;
-                line-height: 40px
+                line-height: 40px;
                 }
 
 /*### Questions
