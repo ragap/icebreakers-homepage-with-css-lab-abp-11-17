@@ -27,7 +27,7 @@ header {height: 100px ;
 /* #### `nav ul`
 Reset the padding of the `nav ul` to `0` and set the top margin to `40px` with a `0` margin for everything else.*/
 
- header nav ul {padding: 0 40px 0 0}
+ header nav ul {padding: 0 0 0 0}
 
 /* ###`nav ul li`
 `li`s in the navigation should have a display of `inline` so they are side by side and a right margin of `10px`.*/
