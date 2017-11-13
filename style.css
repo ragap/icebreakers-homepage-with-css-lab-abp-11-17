@@ -86,7 +86,7 @@ Make the font size of the `h1` in the `.jumbotron` `60px`.*/
 Paragraphs in the `.jumbotron` should have a font size of `20px`, a `0` top and bottom padding, a `40px` left and right padding,
 and a [`line-height`](https://www.w3schools.com/cssref/pr_dim_line-height.asp) of `40px`.*/
 
-div.jumbotron p {font-size: 20px;
+.jumbotron p {font-size: 20px;
                 padding: 0 40px 0 40px
                 }
 
