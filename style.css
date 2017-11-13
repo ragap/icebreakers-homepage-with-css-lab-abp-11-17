@@ -54,7 +54,7 @@ h3#header  {float: left;font-size: 30px}
 /* #### `#header a`
 Remove the underline from the link in the element with an `id` of `header` and make its color `#868e96`.*/
 
-#header a {color:#868e96 }
+#header a {color:#868e96 ;text-decoration: none;}
 
 /* #### `#header a:hover`
 Make the link in the `#header` have an underline on hover. */
@@ -135,3 +135,4 @@ footer {border-top: 1px solid #CCC ;
        padding-top: 20px;
        color: #CCC
     }
+ 
