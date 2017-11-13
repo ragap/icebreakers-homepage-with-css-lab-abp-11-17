@@ -77,12 +77,10 @@ div.jumbotron {border-radius: 5px;
               padding: 10px;
               text-align: center;
               }
-
-
 /*#### `.jumbotron h1`
 Make the font size of the `h1` in the `.jumbotron` `60px`.*/
 
-div.jumbotron h1 {font-size: 60px}
+.jumbotron h1 {font-size: 60px}
 
 /*#### `.jumbotron p`
 Paragraphs in the `.jumbotron` should have a font size of `20px`, a `0` top and bottom padding, a `40px` left and right padding,
